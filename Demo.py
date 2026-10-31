@@ -1,1 +1,1 @@
-Print("Hello, World! this is a demo script.")
+print("Hello, World! this is a demo script. and i am the assistant.")
